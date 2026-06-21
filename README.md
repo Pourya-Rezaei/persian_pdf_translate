@@ -1,4 +1,4 @@
-# 📚 Farsi PDF Translator
+# 📚 Persian PDF Translator
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -17,7 +17,7 @@
 
 ## 🌟 معرفی
 
-**Farsi PDF Translator** یک اپلیکیشن اندرویدی مدرن و پیشرفته برای ترجمه خودکار فایل‌های PDF به زبان فارسی (و سایر زبان‌ها) است. این برنامه با بهره‌گیری از جدیدترین مدل‌های هوش مصنوعی زبانی (LLM)، امکان ترجمه صفحه‌به‌صفحه اسناد را با حفظ ساختار، فرمت و خوانایی اصلی فراهم می‌کند.
+**Persian PDF Translator** یک اپلیکیشن اندرویدی مدرن و پیشرفته برای ترجمه خودکار فایل‌های PDF به زبان فارسی (و سایر زبان‌ها) است. این برنامه با بهره‌گیری از جدیدترین مدل‌های هوش مصنوعی زبانی (LLM)، امکان ترجمه صفحه‌به‌صفحه اسناد را با حفظ ساختار، فرمت و خوانایی اصلی فراهم می‌کند.
 
 ### ✨ چرا این پروژه؟
 - 🎯 **چندمنظوره:** پشتیبانی از ۵ سرویس مختلف هوش مصنوعی
@@ -64,8 +64,8 @@
 
 #### ۱. کلون کردن پروژه
 ```bash
-git clone https://github.com/yourusername/farsi-pdf-translator.git
-cd farsi-pdf-translator
+git clone https://github.com/yourusername/persian-pdf-translator.git
+cd persian-pdf-translator
 ```
 
 #### ۲. پیکربندی API Keys
@@ -117,7 +117,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ### ساختار پروژه
 ```
-app/src/main/java/com/example/farsipdftranslator/
+app/src/main/java/com/example/persianpdftranslator/
 ├── ui/
 │   ├── screens/ (HomeScreen, ReaderScreen, SettingsScreen)
 │   └── theme/
