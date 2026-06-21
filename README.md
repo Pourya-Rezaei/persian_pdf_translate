@@ -189,10 +189,10 @@ app/src/main/java/com/example/persianpdftranslator/
 **پوریا رضایی**
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Pourya-Rezaei">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/pouryarezaee">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
