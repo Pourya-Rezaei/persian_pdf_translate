@@ -1,0 +1,6 @@
+{
+  "name": "Farsi PDF",
+  "description": "A modern Android application for high-quality Persian translation of PDF files page-by-page, supporting multiple AI providers like Gemini, OpenAI, and OpenRouter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
